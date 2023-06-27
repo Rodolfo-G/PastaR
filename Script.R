@@ -6,3 +6,7 @@
 #NOvas funcoes
 100*100
 50*50
+#Linhas modificadas remotamente
+100+50
+200+100
+300+500
